@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>DrLaravel file upload using Dropzone.js</title>
+    <title>Laravel file upload using Dropzone.js</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.0.1/min/dropzone.min.css" rel="stylesheet">
